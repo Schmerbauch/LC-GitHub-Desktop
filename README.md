@@ -1,7 +1,7 @@
 # Beschreibung
 ## Demo
 
-Dies ist ein Tippfehler Discover interesting projects and people to populate your personal news feed.
+Interesting projects and people to populate your personal news feed.
 
 Your news feed helps you keep up with recent activity on repositories you watch and people you follow. Learn Git and GitHub without any code!
 
@@ -21,6 +21,4 @@ Using the Hello World guide, you’ll create a repository, start a branch, write
 Learn Git and GitHub without any code!
 
 Using the Hello World guide, you’ll create a repository, start a branch, write comments, and open a pull request.
-Das ist sehr interessant
-Auch hier keinen Tippfehler einbauen
-Hier aber dan doch
+Learn Git and GitHub without any code!
