@@ -1,7 +1,7 @@
 # Beschreibung
 ## Demo
 
-Dies ist ein Tiupfehler Discover interesting projects and people to populate your personal news feed.
+Dies ist ein Tippfehler Discover interesting projects and people to populate your personal news feed.
 
 Your news feed helps you keep up with recent activity on repositories you watch and people you follow. Learn Git and GitHub without any code!
 
